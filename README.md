@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mujthaba MK</h1>
-<h3 align="center">With 6 years of full-stack experience in Java, Angular, JavaScript, and .NET, a steadfast commitment to continuous learning and professional development is at the forefront of my priorities.</h3>
+<h3 align="center">With 7 years of full-stack experience in Java, Angular, JavaScript , Typescript a steadfast commitment to continuous learning and professional development is at the forefront of my priorities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujthabamkdev&label=Profile%20views&color=0e75b6&style=flat" alt="mujthabamkdev" /> </p>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" />
