@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mujthaba MK</h1>
+<h1 align="center">Hi 👋, I'm Mujthaba</h1>
 <h3 align="center">With 7 years of full-stack experience in Java, Angular, JavaScript , Typescript a steadfast commitment to continuous learning and professional development is at the forefront of my priorities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujthabamkdev&label=Profile%20views&color=0e75b6&style=flat" alt="mujthabamkdev" /> </p>
