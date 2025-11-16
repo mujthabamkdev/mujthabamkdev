@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujthabamkdev&label=Profile%20views&color=0e75b6&style=flat" alt="mujthabamkdev" /> </p>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" />
 
-- 🌱 I’m currently learning **Spring Microservices**
+- 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Angular, JavaScript, Java**
+- 💬 Ask me about **Angular, JavaScript, Java Spring Microservices**
 
-- 📫 How to reach me **mujthabamkdev@gmail.com**
+- 📫 How to reach me **mujthaba____@gmail.com**
 
 - ⚡ Fun fact **The first computer program was written in 1843 🤔**
 
