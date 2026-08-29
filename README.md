@@ -1,52 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=180&section=header&text=TARGET%20ACQUIRED:%20MUJTHABA&fontSize=28&fontColor=FFCC00&fontAlignY=40&desc=THE%20MACHINE%20//%20PRIMARY%20PERSON%20OF%20INTEREST%20//%20THREAT:%20ELEVATED&descFontSize=14&descColor=8B949E&descAlignY=65&stroke=FFCC00&strokeWidth=2" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/render?type=rect&color=030A06&height=180&section=header&text=TARGET%20IDENTIFIED:%20MUJTHABA&fontSize=26&fontColor=00FF66&fontAlignY=38&desc=%22YOU%20ARE%20BEING%20WATCHED.%22%20//%20THE%20MACHINE%20//%20THREAT%20LEVEL:%20CRITICAL&descFontSize=13&descColor=00AA44&descAlignY=65&stroke=00FF66&strokeWidth=2" width="100%" alt="Matrix Surveillance Header" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=FFCC00&center=true&vCenter=true&width=600&lines=CLASSIFICATION%3A+TIER-1+SOFTWARE+ARCHITECT;7%2B+YEARS+SYSTEMS+EXPERIENCE+%5BJAVA+%2F+ANGULAR%5D;SPECIALTY%3A+DISTRIBUTED+MICROSERVICES;OBJECTIVE%3A+AUTONOMOUS+AI%2FML+SYSTEMS" alt="Typing Dossier" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=INITIATING+CYBER_RECON_PROTOCOLS...;TARGET%3A+7%2B+YRS+FULL-STACK+ARCHITECT+%5BJAVA+%2F+ANGULAR%5D;ZERO-TRUST+MICROSERVICES+%7C+RESILIENT+DEFENSE;ACQUIRING+CAPABILITIES%3A+AI%2FML+NEURAL+MODELS" alt="Terminal Typing" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/THREAT%20LEVEL-ELEVATED-FFCC00?style=for-the-badge&logoColor=000&labelColor=000000" alt="Threat Level" />
-  <img src="https://img.shields.io/badge/SURVEILLANCE-ACTIVE-critical?style=for-the-badge&logo=radar&logoColor=FF0000&labelColor=000000" alt="Status" />
-  <img src="https://img.shields.io/badge/SYSTEM-THE%20MACHINE-000000?style=for-the-badge&logo=target&logoColor=FFCC00" alt="System" />
+  <img src="https://img.shields.io/badge/THREAT%20ASSESSMENT-CRITICAL-000000?style=for-the-badge&logo=target&logoColor=00FF66" alt="Threat Assessment" />
+  <img src="https://img.shields.io/badge/SURVEILLANCE%20GRID-ONLINE-00FF66?style=for-the-badge&logo=hack-the-box&logoColor=000000&labelColor=000000" alt="Grid Status" />
+  <img src="https://img.shields.io/badge/CYBER%20POSTURE-ZERO--TRUST-000000?style=for-the-badge&logo=wireshark&logoColor=00FF66" alt="Cyber Posture" />
 </p>
 
 </div>
 
 ---
 
-### 🟨 TARGET TELEMETRY
+### 🟩 SYSTEM TELEMETRY & THREAT MATRIX
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-```yaml
-[ASSET IDENTITY MATRIX]
-ID: #MK-0789
-ROLE: Full-Stack Architect
-EXPERIENCE: 7+ Years Enterprise
-STATUS: Active Operational Threat
-SPECIALIZATION:
-  - Distributed Microservices (Java)
-  - Reactive Enterprise Frontends (Angular)
-  - Autonomous Neural Systems (AI/ML)
-PERIMETER: Global / Asynchronous
+```bash
+#!/bin/bash
+# IDENTITY RECORD: #MK-0789
+ASSET_NAME="Mujthaba"
+ROLE="Full-Stack Engineer & Architect"
+EXPERIENCE="7+ Years Enterprise Core"
+SECURITY_CLEARANCE="TOP_SECRET // NOFORN"
+
+PAYLOADS=(
+  "High-Concurrency Java / Spring Microservices"
+  "Mission-Critical Angular Frontend Recon"
+  "Neural Inference & Autonomous AI/ML"
+)
+STATUS="EVADING ARCHITECTURAL DECAY"
 ```
 
 </td>
 <td width="45%" valign="top">
 
-```ini
-[THREAT CAPABILITIES]
-CONCURRENCY   = [████████████████] 99%
-FAULT_TOL     = [████████████████] 95%
-CLEAN_ARCH    = [████████████████] 98%
-AI_TRAINING   = [██████████░░░░░░] 65%
-EFFICIENCY    = CRITICAL LEVEL
+```bash
+[SECURITY DEFENSE READINESS]
+> ZERO_TRUST_AUTH   [████████████████] 99%
+> DATA_ENCRYPTION    [████████████████] 98%
+> FAULT_TOLERANCE   [███████████████░] 94%
+> ML_EXPLOITATION   [██████████░░░░░░] 65%
+> THREAT_MITIGATION [ACTIVE]
 ```
 
 </td>
@@ -55,56 +58,56 @@ EFFICIENCY    = CRITICAL LEVEL
 
 ---
 
-### 🛠️ ARSENAL & SURVEILLANCE MATRIX
+### 🛡️ TACTICAL ARSENAL (WEAPONIZED TECH STACK)
 
 <div align="center">
 
-| SECTOR | SURVEILLANCE PAYLOAD |
+| CYBER VECTOR | ARSENAL PAYLOAD |
 | :--- | :--- |
-| **BACKEND ENGINES** | <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres,oracle&theme=dark" /> |
+| **CORE BACKEND** | <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres,oracle&theme=dark" /> |
 | **FRONTEND RECON** | <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind&theme=dark" /> |
-| **INFRA & TOOLING** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode&theme=dark" /> |
+| **OPS & EXPLOITATION** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode&theme=dark" /> |
 
 </div>
 
 ---
 
-### 📁 ACTIVE OPERATIONS (RECON GRID)
+### 🚨 ACTIVE SECTORS (OPERATION LOGS)
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🟡 `OP-01: MICROSERVICE MESH`
-> **Target:** High-throughput event fabric  
+#### 🟢 `OP-01: SECURE MESH HUB`
+> **Target:** Microservice mesh with mutual TLS  
 > **Payload:** `Java` • `Spring Boot` • `Docker`  
 > **Classification:** Resilient distributed architecture
 
 </td>
 <td width="50%">
 
-#### 🟡 `OP-02: ENTERPRISE UI CORE`
-> **Target:** Scalable mission-critical dashboard  
+#### 🟢 `OP-02: REACTIVE RECON UI`
+> **Target:** Hardened real-time monitoring HUD  
 > **Payload:** `Angular` • `TypeScript` • `RxJS`  
-> **Classification:** Reactive frontend system
+> **Classification:** High-throughput frontend console
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🟡 `OP-03: NEURAL PREDICTION`
-> **Target:** Autonomous model inference pipeline  
-> **Payload:** `Python` • `AI/ML` • `Vector Data`  
-> **Classification:** Machine Learning subsystem
+#### 🟢 `OP-03: NEURAL ENGINE`
+> **Target:** Autonomous model training & anomaly parsing  
+> **Payload:** `Python` • `AI/ML` • `Embeddings`  
+> **Classification:** AI predictive subsystem
 
 </td>
 <td width="50%">
 
-#### 🟡 `OP-04: ZERO-TRUST GATEWAY`
-> **Target:** Edge security & authorization mesh  
-> **Payload:** `Spring Cloud` • `JWT` • `OAuth2`  
-> **Classification:** Perimeter defense
+#### 🟢 `OP-04: ZERO-TRUST PERIMETER`
+> **Target:** Identity gateway & token validation fabric  
+> **Payload:** `Spring Cloud` • `OAuth2` • `JWT`  
+> **Classification:** Perimeter access control
 
 </td>
 </tr>
@@ -112,19 +115,19 @@ EFFICIENCY    = CRITICAL LEVEL
 
 ---
 
-### 📟 TRANSMISSION TERMINAL (ESTABLISH UPLINK)
+### 📟 TRANSMISSION TERMINAL (ENCRYPTED LINK)
 
 <div align="center">
 
 <a href="mailto:mujthaba____@gmail.com">
-  <img src="https://img.shields.io/badge/TRANSMIT%20SIGNAL-GMAIL-FFCC00?style=for-the-badge&logo=gmail&logoColor=000&labelColor=000000" alt="Email Uplink" />
+  <img src="https://img.shields.io/badge/INITIATE%20ENCRYPTED%20COMMS-000000?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Email Comms" />
 </a>
 <a href="https://github.com/mujthabamkdev">
-  <img src="https://img.shields.io/badge/ACCESS%20VAULT-GITHUB-FFCC00?style=for-the-badge&logo=github&logoColor=000&labelColor=000000" alt="GitHub Dossier" />
+  <img src="https://img.shields.io/badge/ACCESS%20TARGET%20VAULT-000000?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub Vault" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=50&section=footer&text=%22CAN%20YOU%20HEAR%20ME%3F%22%20--%20THE%20MACHINE&fontSize=14&fontColor=FFCC00&fontAlignY=50&stroke=FFCC00&strokeWidth=1" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/render?type=rect&color=030A06&height=55&section=footer&text=%22THE%20GOVERNMENT%20HAS%20A%20SECRET%20SYSTEM...%20A%20MACHINE%20THAT%20SPIES%20ON%20YOU%20EVERY%20HOUR%20OF%20EVERY%20DAY.%22&fontSize=11&fontColor=00FF66&fontAlignY=50&stroke=00FF66&strokeWidth=1" width="100%" alt="Machine Footer" />
 
 </div>
