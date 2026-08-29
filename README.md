@@ -115,7 +115,7 @@
 
 <div align="center">
 
-<a href="mailto:mujthaba____@gmail.com">
+<a href="mailto:mujthabamkdev@gmail.com">
   <img src="https://img.shields.io/badge/TRANSMIT_SIGNAL-GMAIL-000000?style=flat-square&logo=gmail&logoColor=00FF66" alt="Email Asset" />
 </a>
 <a href="https://github.com/mujthabamkdev">
