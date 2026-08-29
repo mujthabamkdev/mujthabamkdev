@@ -26,18 +26,12 @@
 
 ### 📈 Activity & Telemetry
 
-<div align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujthabamkdev&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mujthabamkdev&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=mujthabamkdev&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujthabamkdev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mujthabamkdev&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8" width="49%" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujthabamkdev&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" width="49%" alt="Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mujthabamkdev&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" width="98.5%" alt="Streak" />
-
-</div>
+[![Streak](https://streak-stats.demolab.com/?user=mujthabamkdev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
