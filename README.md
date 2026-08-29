@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=030A06&height=180&section=header&text=TARGET%20IDENTIFIED:%20MUJTHABA&fontSize=26&fontColor=00FF66&fontAlignY=38&desc=%22YOU%20ARE%20BEING%20WATCHED.%22%20//%20THE%20MACHINE%20//%20THREAT%20LEVEL:%20CRITICAL&descFontSize=13&descColor=00AA44&descAlignY=65&stroke=00FF66&strokeWidth=2" width="100%" alt="Matrix Surveillance Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00FF66&background=030A06&center=true&vCenter=true&width=800&height=100&lines=%5B+TARGET+IDENTIFIED%3A+MUJTHABA+%5D;YOU+ARE+BEING+WATCHED.+%2F%2F+THE+MACHINE;THREAT+LEVEL%3A+CRITICAL+%2F%2F+STATUS%3A+OPERATIONAL" alt="Matrix Terminal Header" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=INITIATING+CYBER_RECON_PROTOCOLS...;TARGET%3A+7%2B+YRS+FULL-STACK+ARCHITECT+%5BJAVA+%2F+ANGULAR%5D;ZERO-TRUST+MICROSERVICES+%7C+RESILIENT+DEFENSE;ACQUIRING+CAPABILITIES%3A+AI%2FML+NEURAL+MODELS" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=INITIATING+CYBER_RECON_PROTOCOLS...;TARGET%3A+7%2B+YRS+FULL-STACK+ARCHITECT+%5BJAVA+%2F+ANGULAR%5D;ZERO-TRUST+MICROSERVICES+%7C+RESILIENT+DEFENSE;ACQUIRING+CAPABILITIES%3A+AI%2FML+NEURAL+MODELS" alt="Terminal Typing" />
 </a>
 
 <p>
@@ -128,6 +128,8 @@ STATUS="EVADING ARCHITECTURAL DECAY"
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=030A06&height=55&section=footer&text=%22THE%20GOVERNMENT%20HAS%20A%20SECRET%20SYSTEM...%20A%20MACHINE%20THAT%20SPIES%20ON%20YOU%20EVERY%20HOUR%20OF%20EVERY%20DAY.%22&fontSize=11&fontColor=00FF66&fontAlignY=50&stroke=00FF66&strokeWidth=1" width="100%" alt="Machine Footer" />
+```text
+"THE GOVERNMENT HAS A SECRET SYSTEM: A MACHINE THAT SPIES ON YOU EVERY HOUR OF EVERY DAY."
+```
 
 </div>
