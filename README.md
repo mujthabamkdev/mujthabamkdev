@@ -1,101 +1,130 @@
-<pre>
-[SYSTEM BOOT SEQUENCE: THE MACHINE // MASS SURVEILLANCE & ASSET LOG]
-NODE: LOCALHOST // CLASSIFICATION: TOP SECRET // ACCESS: GRANTED
-> IDENTIFYING TARGET...
-> ASSET ACQUIRED: MUJTHABA (ID: #MK-0789)
-> STATUS: ACTIVE THREAT TO ARCHITECTURAL INEFFICIENCY
-</pre>
-
 <div align="center">
 
-# 👁️ TARGET DOSSIER: ASSET MUJTHABA
-`CLASSIFICATION: PRIMARY PERSON OF INTEREST` • `LOCATION: CLASSIFIED`
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=180&section=header&text=TARGET%20ACQUIRED:%20MUJTHABA&fontSize=28&fontColor=FFCC00&fontAlignY=40&desc=THE%20MACHINE%20//%20PRIMARY%20PERSON%20OF%20INTEREST%20//%20THREAT:%20ELEVATED&descFontSize=14&descColor=8B949E&descAlignY=65&stroke=FFCC00&strokeWidth=2" width="100%" alt="Header" />
 
-[![Threat Level](https://img.shields.io/badge/THREAT_LEVEL-ELEVATED-critical?style=for-the-badge&logo=target)](https://github.com/mujthabamkdev)
-[![Asset Status](https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=radar)](https://github.com/mujthabamkdev)
-[![Direct Uplink](https://img.shields.io/badge/SECURE_CHANNEL-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujthaba____@gmail.com)
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=FFCC00&center=true&vCenter=true&width=600&lines=CLASSIFICATION%3A+TIER-1+SOFTWARE+ARCHITECT;7%2B+YEARS+SYSTEMS+EXPERIENCE+%5BJAVA+%2F+ANGULAR%5D;SPECIALTY%3A+DISTRIBUTED+MICROSERVICES;OBJECTIVE%3A+AUTONOMOUS+AI%2FML+SYSTEMS" alt="Typing Dossier" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/THREAT%20LEVEL-ELEVATED-FFCC00?style=for-the-badge&logoColor=000&labelColor=000000" alt="Threat Level" />
+  <img src="https://img.shields.io/badge/SURVEILLANCE-ACTIVE-critical?style=for-the-badge&logo=radar&logoColor=FF0000&labelColor=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/SYSTEM-THE%20MACHINE-000000?style=for-the-badge&logo=target&logoColor=FFCC00" alt="System" />
+</p>
 
 </div>
 
 ---
 
-### 📡 MACHINE TELEMETRY & SURVEILLANCE SUMMARY
+### 🟨 TARGET TELEMETRY
 
-<pre>
-ASSET_RECORD:
-  codename: "Asset MK"
-  years_active: 7+
-  clearance_level: "Tier-1 Architect"
-  primary_directives:
-    - "Design high-throughput distributed microservices"
-    - "Deliver mission-critical enterprise user interfaces"
-    - "Integrate autonomous neural network models (AI/ML)"
-  threat_assessment: "High proficiency in large-scale system refactoring"
-</pre>
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+```yaml
+[ASSET IDENTITY MATRIX]
+ID: #MK-0789
+ROLE: Full-Stack Architect
+EXPERIENCE: 7+ Years Enterprise
+STATUS: Active Operational Threat
+SPECIALIZATION:
+  - Distributed Microservices (Java)
+  - Reactive Enterprise Frontends (Angular)
+  - Autonomous Neural Systems (AI/ML)
+PERIMETER: Global / Asynchronous
+```
 
-### 🛡️ OPERATIONAL CAPABILITIES (TECH STACK)
+</td>
+<td width="45%" valign="top">
 
-| SECTOR | CAPABILITIES | THREAT VECTORS |
-| :--- | :--- | :--- |
-| **Backend Core** | Enterprise Java, Spring Boot, Microservices, .NET | `High Concurrency`, `Fault Tolerance`, `REST/gRPC` |
-| **Frontend Recon** | Angular, TypeScript, JavaScript, HTML5/SCSS | `Reactive State (RxJS)`, `Modular Architecture` |
-| **Data Vaults** | Microsoft SQL Server, Oracle DB, PostgreSQL | `ACID Compliance`, `Index Optimization`, `ETL` |
-| **Tooling & Ops** | Git, Postman, Docker, Linux, CI/CD Pipelines | `Automated Deployments`, `Containerization` |
+```ini
+[THREAT CAPABILITIES]
+CONCURRENCY   = [████████████████] 99%
+FAULT_TOL     = [████████████████] 95%
+CLEAN_ARCH    = [████████████████] 98%
+AI_TRAINING   = [██████████░░░░░░] 65%
+EFFICIENCY    = CRITICAL LEVEL
+```
 
----
-
-### 🧠 NEURAL NETWORK & MACHINE LEARNING DIRECTIVE
-
-<pre>
-[UPDATING TARGET OBJECTIVES...]
- TARGET IS ACTIVELY ACQUIRING CAPABILITIES IN:
-   ├── Deep Learning & Predictive Modeling
-   ├── LLM Architecture Integration & Embeddings
-   └── Algorithmic Automation & Data Pipelines
-</pre>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛰️ INTERCEPTED COMMUNICATON LOGS
-
-* **Log Entry #2041:** "Target is proficient at translating complex business domain requirements into high-performance backend pipelines."
-* **Log Entry #3189:** "Asset maintains zero tolerance for unhandled exceptions and unoptimized queries."
-* **Log Entry #5502:** "Available for collaborative enterprise projects and high-impact software initiatives."
-
----
-
-### 📁 ASSET REPOSITORY MATRIX (PINNED MISSIONS)
-
-<pre>
-+------------------------------------+------------------------------------+
-| MISSION: CORE-MICROSERVICE-MESH   | MISSION: ENTERPRISE-ANGULAR-HUB   |
-| [===================] 100% READY   | [===================] 100% READY   |
-| Tech: Java / Spring Boot / Docker  | Tech: Angular / TypeScript / RxJS  |
-| Objective: Resilient event bus     | Objective: Complex state dashboard |
-+------------------------------------+------------------------------------+
-| MISSION: NEURAL-PREDICT-ENGINE     | MISSION: SECURE-API-GATEWAY        |
-| [===========>.......] 60% TRAINING | [===================] 100% ACTIVE  |
-| Tech: Python / AI / Data Pipelines | Tech: Spring Cloud / JWT / Auth    |
-| Objective: Model inference service | Objective: Zero-trust perimeter    |
-+------------------------------------+------------------------------------+
-</pre>
-
----
-
-### 📟 TRANSMISSION TERMINAL
-
-<pre>
-ESTABLISH SECURE LINK WITH THE ASSET:
----------------------------------------------------------------------------------
-[EMAIL]    >> mujthaba____@gmail.com
-[GITHUB]   >> [https://github.com/mujthabamkdev](https://github.com/mujthabamkdev)
-[PROTOCOL] >> ASYNC / HIGH-PRIORITY INQUIRIES WELCOME
----------------------------------------------------------------------------------
-"You are being watched. The government has a secret system: a machine that spies on you every hour of every day."
-</pre>
+### 🛠️ ARSENAL & SURVEILLANCE MATRIX
 
 <div align="center">
-  <sub>// END OF DOSSIER // THE MACHINE SEES ALL //</sub>
+
+| SECTOR | SURVEILLANCE PAYLOAD |
+| :--- | :--- |
+| **BACKEND ENGINES** | <img src="https://skillicons.dev/icons?i=java,spring,dotnet,postgres,oracle&theme=dark" /> |
+| **FRONTEND RECON** | <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind&theme=dark" /> |
+| **INFRA & TOOLING** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,idea,vscode&theme=dark" /> |
+
+</div>
+
+---
+
+### 📁 ACTIVE OPERATIONS (RECON GRID)
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🟡 `OP-01: MICROSERVICE MESH`
+> **Target:** High-throughput event fabric  
+> **Payload:** `Java` • `Spring Boot` • `Docker`  
+> **Classification:** Resilient distributed architecture
+
+</td>
+<td width="50%">
+
+#### 🟡 `OP-02: ENTERPRISE UI CORE`
+> **Target:** Scalable mission-critical dashboard  
+> **Payload:** `Angular` • `TypeScript` • `RxJS`  
+> **Classification:** Reactive frontend system
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🟡 `OP-03: NEURAL PREDICTION`
+> **Target:** Autonomous model inference pipeline  
+> **Payload:** `Python` • `AI/ML` • `Vector Data`  
+> **Classification:** Machine Learning subsystem
+
+</td>
+<td width="50%">
+
+#### 🟡 `OP-04: ZERO-TRUST GATEWAY`
+> **Target:** Edge security & authorization mesh  
+> **Payload:** `Spring Cloud` • `JWT` • `OAuth2`  
+> **Classification:** Perimeter defense
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📟 TRANSMISSION TERMINAL (ESTABLISH UPLINK)
+
+<div align="center">
+
+<a href="mailto:mujthaba____@gmail.com">
+  <img src="https://img.shields.io/badge/TRANSMIT%20SIGNAL-GMAIL-FFCC00?style=for-the-badge&logo=gmail&logoColor=000&labelColor=000000" alt="Email Uplink" />
+</a>
+<a href="https://github.com/mujthabamkdev">
+  <img src="https://img.shields.io/badge/ACCESS%20VAULT-GITHUB-FFCC00?style=for-the-badge&logo=github&logoColor=000&labelColor=000000" alt="GitHub Dossier" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=50&section=footer&text=%22CAN%20YOU%20HEAR%20ME%3F%22%20--%20THE%20MACHINE&fontSize=14&fontColor=FFCC00&fontAlignY=50&stroke=FFCC00&strokeWidth=1" width="100%" alt="Footer" />
+
 </div>
