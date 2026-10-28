@@ -26,12 +26,10 @@
 
 ```text
 ┌──[ root@the-machine:~# cat /proc/asset_dossier ]─────────────┐
-│ ASSET_ID     : mujthabamkdev                                  │
-│ OPERATOR     : Mujthaba                                       │
-│ EXPERIENCE   : 7+ Years Full-Stack                            │
+│ EXPERIENCE   : 7+ Years Full-Stack                           │
 │ CORE_SPECIAL : Java Spring Microservices, Angular, JS, TS    │
-│ ACTIVE_RECON : AI / ML Architecture                           │
-│ DIRECTIVE    : Continuous Learning & Optimization             │
+│ ACTIVE_RECON : AI / ML Architecture                          │
+│ DIRECTIVE    : Continuous Learning & Optimization            │
 │ TRIVIA_DATA  : First computer program written in 1843 (Lovelace)│
 │ STATUS       : CLEARANCE_LEVEL_TOP_SECRET                     │
 └──────────────────────────────────────────────────────────────┘
